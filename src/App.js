@@ -9,7 +9,7 @@ class App extends Component {
       <Player
       playsInline
       poster="/assets/poster.png"
-      src="./assets/IMG_0059.m4v"
+      src="http://www.old.circalightingblog.com/various_assets/IMG_0059.m4v"
     />
       
       
